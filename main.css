@@ -1,1 +1,41 @@
-main.css
+h1 {
+    font-size: 48px;
+    font-family: Impact, Charcoal, sans-serif;
+    text-align: center;
+    width: fit-content;
+    margin: 0 auto;
+    background: #939393;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background: #cfcfcf;
+}
+
+.main_heading {
+    text-align: center;
+    padding: 10px;
+}
+
+.updateBox {
+    padding: 20px;
+    list-style: none;
+    width: fit-content;
+    text-align: center;
+    margin: 20px auto;
+    background: #939393;
+}
+
+.start_box {
+    padding: 50px;
+    width: 500px;
+    height: 400px;
+    text-align: center;
+    background: #939393;
+    margin: auto;
+}
+
+.button {
+    height: 125px;
+}
